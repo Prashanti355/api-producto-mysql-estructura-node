@@ -7,7 +7,7 @@ const YAML = require("yamljs");
 const productRouter = require("./routes/product.routes");
 
 const app = express();
-const PORT = 3020;
+const PORT = 3029;
 
 // Middlewares
 app.use(cors());
